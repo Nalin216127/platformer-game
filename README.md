@@ -8,6 +8,6 @@ Use the arrows to run and space to jump.
 
 ## Screenshots
 
-![Title screen](https://raw.githubusercontent.com/joncoop/my-platformer-game/main/screenshots/title_screen.png)
+![Title screen](https://raw.githubusercontent.com/Nalin216127/platformer-game/main/screenshots/title_screen.png)
 
-![Play screen](https://raw.githubusercontent.com/joncoop/my-platformer-game/main/screenshots/play_screen.png)
+![Play screen](https://raw.githubusercontent.com/Nalin216127/platformer-game/main/screenshots/play_screen.png)
