@@ -7,7 +7,7 @@ import json
 GRID_SIZE = 64
 WIDTH = 16 * GRID_SIZE
 HEIGHT = 9 * GRID_SIZE
-TITLE = "Name of Game"
+TITLE = "platformer-game"
 FPS = 60
 
 
